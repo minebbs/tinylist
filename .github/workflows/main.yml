@@ -2,10 +2,10 @@
 
 name: CI
 
-on:
-  schedule:
-    - cron: '37 19 * * *'
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: '37 19 * * *'
+#   workflow_dispatch:
 
 # Controls when the workflow will run
 on:
